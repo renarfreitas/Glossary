@@ -1,0 +1,20 @@
+﻿Glossary:
+
+ API
+
+Uma API (Application Programming Interface), em português “Interface de Programação de Aplicativos”, é um conjunto de funções estabelecidas por um software, que funcionam como uma interface intermediária, para a utilização de funcionalidades deste software por aplicações externas.
+Por exemplo: você tem uma loja online, e para que um cliente seu realize uma compra, ele deve se cadastrar em sua loja. No formulário de cadastro da sua loja, existe a opção de cadastrar utilizando o Facebook. Quando seu cliente utiliza essa opção, sua loja precisa pegar os dados deste cliente no Facebook para concluir o cadastro.
+Para que seja possível sua loja pegar os dados do cliente, o Facebook disponibiliza uma API que é uma intermediadora da função de buscar dados de um usuário do Facebook.
+HTTP
+O HTTP (Hypertext Transfer Protocol), em português Protocolo de Transferência de Hipertexto, é um protocolo para transferência de arquivos hipermídia, como o HTML, por exemplo. Ele foi criado para a comunicação de navegadores web e servidores, mas também pode ser empregado em outras finalidades.
+Ele trabalha com o modelo cliente-servidor – o cliente abre a conexão, faz uma requisição ao servidor e aguarda até receber uma resposta. Ele é um protocolo stateless, ou seja, o servidor não armazena informações entre as requisições. Para ler mais sobre o assunto acesse o site do W3C.
+
+REST
+
+O REST (Representational State Transfer) é um estilo de arquitetura de software que define um conjunto de regras a serem utilizadas para a criação de serviços da internet. Os serviços da internet que utilizam o estilo de arquitetura REST fornecem um modo de se comunicar de forma transparente entre sistemas computacionais na internet.
+
+
+
+
+
+
